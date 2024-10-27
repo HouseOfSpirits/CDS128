@@ -35,10 +35,12 @@ main {
 }
 
 #nav h1 {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 1.75rem;
 }
-
+#nav h1 span{
+    font-weight: 300;
+}
 #nav-part2 {
     display: flex;
     align-items: center;
